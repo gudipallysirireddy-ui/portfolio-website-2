@@ -78,9 +78,10 @@ On smaller screens, navigation and project cards stack vertically.
 ![Desktop View](screenshots/desktop-view.png)
 
 ### 📱 Mobile View
-![Mobile View](screenshots/mobile-view.jpg)
+![Mobile View](screenshots/mobile-view.jpeg)
 
 
 ## 👩‍💻 Author
 Siri Reddy  
+
 Computer Science Student
